@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    height: 50%;
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn{
+    width: 12vw;
+    background-color: limegreen;
+    border-radius: 1vw;
+    border: 2px solid cadetblue;
+}
+.heading{
+    color: white;
+    font-weight: inherit;
+    color: darkred;
+}
+.contain2{
+    margin-top: 8vh;
+    display: flex;  
+    justify-content: space-around;
+}
+.contain3{
+    display: flex;  
+    justify-content: space-around;
+    padding-right: 1vw;
+    margin-bottom: 4vh;
+}
+.bg_3{
+    width: 100%;
+    position: absolute;
+    height: 50%;
+    z-index: -1;
+}
+.second{
+    color: white;
+    font-weight: initial;
+}
+.contain4{
+    margin-bottom: 35vh;
+}
+.third{
+    font-weight: initial;
+}
+.contain5{
+    margin-bottom: 45vh;
+}
